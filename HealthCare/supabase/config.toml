@@ -1,0 +1,2 @@
+[functions.send-appointment-email]
+envFile = "../.env"
