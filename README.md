@@ -1,6 +1,3 @@
-# HealthCare
-
-
 # 🩺 Healthcare – Your Personal Health Dashboard
 
 A full-stack web application to book doctor appointments, track health metrics, and manage prescriptions — all in one clean, secure dashboard.
