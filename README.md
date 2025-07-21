@@ -37,8 +37,8 @@ This is perfect for small clinics, wellness centers, or even personal use.
 1.  ### Clone the Repo
 
     ```bash
-    git clone https://github.com/your-username/healthcare.git
-    cd healthcare
+    git clone https://github.com/shivkumar31/HealthCare-System.git
+    cd HealthCare-System
     ```
 
 2.  ### Install the Dependencies
