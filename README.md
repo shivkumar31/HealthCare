@@ -1,5 +1,5 @@
 # HealthCare
-Yes, I can definitely help you with that\! Here's the project description with the name changed to "Healthcare":
+
 
 # 🩺 Healthcare – Your Personal Health Dashboard
 
@@ -107,22 +107,4 @@ This is perfect for small clinics, wellness centers, or even personal use.
   * Graphs to visualize vitals
   * Wearable device integration
 
------
 
-## 🤝 Contributing
-
-If you'd like to improve or expand this project, feel free to:
-
-1.  **Fork** the repository
-2.  **Create a feature branch**
-3.  **Submit a pull request\!**
-
------
-
-## 📜 License
-
-**MIT License** — free to use and modify with credit.
-
------
-
-Would you like this bundled into a `README.md` file ready to push to GitHub? Or help creating a `.gitignore`, `.env.example`, or repo structure?
